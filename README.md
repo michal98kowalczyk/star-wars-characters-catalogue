@@ -2,6 +2,8 @@
 
 It's a recruitment task solution for Virtuslab
 
+You can see result on: https://michal98kowalczyk.github.io/star-wars-characters-catalogue/
+
 ## `npm install`
 
 Install the dependencies
