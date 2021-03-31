@@ -1,0 +1,18 @@
+footer {
+  background-color: black;
+  color: white;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  //   margin-top: 5px;
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2.5rem;
+  line-height: 2.5rem;
+
+  span {
+    padding: 5px;
+  }
+}

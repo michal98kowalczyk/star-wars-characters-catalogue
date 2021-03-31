@@ -1,0 +1,33 @@
+form {
+  margin: 10px auto;
+  padding: 10px 20px;
+
+  label {
+    padding: 0 10px;
+
+    input {
+      height: 30px;
+      line-height: 30px;
+      border: 2px solid black;
+    }
+  }
+
+  button {
+    margin: 5px 10px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 14px;
+    background-color: #aaa;
+    cursor: pointer;
+    transition: 0.2s;
+
+    &:hover {
+      background-color: #aaa;
+      color: white;
+      border-color: #aaa;
+    }
+  }
+}
